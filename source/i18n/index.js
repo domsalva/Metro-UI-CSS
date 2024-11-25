@@ -1,3 +1,8 @@
+--- hey ---
+    lemm'e add my OGs of Huawei/Debloaters from Shanghai
+        If... that's is okay? FINE
+--- over ---
+
 import * as da_DK from "./da-DK.js"
 import * as de_DE from "./de-DE.js"
 import * as en_US from "./en-US.js"
